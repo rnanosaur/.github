@@ -6,7 +6,7 @@
 
 Designed & made by [Raffaello Bonghi](https://rnext.it)
 
-[![nanosaur](https://nanosaur.ai/assets/images/intro.jpg)](https://nanosaur.ai)
+[![nanosaur](https://nanosaur.ai/assets/images/banner.jpg)](https://nanosaur.ai)
 
 Meet nanosaur:
 * 🦕 Website: [nanosaur.ai](https://nanosaur.ai)
