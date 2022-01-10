@@ -1,7 +1,5 @@
 [![Discord](https://img.shields.io/discord/797461428646707211)](https://discord.gg/YvxjxEFPkb) [![GitHub Org's stars](https://img.shields.io/github/stars/rnanosaur?style=social)](https://github.com/rnanosaur) [![Twitter Follow](https://img.shields.io/twitter/follow/raffaello86?style=social)](https://twitter.com/raffaello86) [![robo.panther](https://img.shields.io/badge/Follow:-robo.panther-E4405F?style=social&logo=instagram)](https://www.instagram.com/robo.panther/)
 
- is a little tracked robot  enabled, made for an 
-
 **nanosaur** The smallest [NVIDIA Jetson](https://developer.nvidia.com/buy-jetson) dinosaur robot, open-source, fully 3D printable, based on [ROS2](https://www.ros.org/) & https://developer.nvidia.com/isaac-ros-gems.
 
 Designed & made by [Raffaello Bonghi](https://rnext.it)
