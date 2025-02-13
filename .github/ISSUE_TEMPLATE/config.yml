@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 🆘 Troubleshooting
+    url: https://nanosaur.ai/troubleshooting
+    about: Check if your bug is documented here
+  - name: 💬 Ask the Community
+    url: https://discord.gg/rCHgeUpUj9
+    about: Join nanosaur's Discord server
+  - name: 🦕 Website
+    url: https://nanosaur.ai
+    about: Make sure that is something already on the nanosaur website
